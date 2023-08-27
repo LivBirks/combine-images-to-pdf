@@ -8,11 +8,12 @@ This script takes all the jpg image files in the directory, and writes them to a
 
 ## Installation:
 
-You need to import the relevant 2 packages/modules/libraries named os and img2pdf.
+You need to import the relevant 3 packages/modules/libraries named os, img2pdf and argparse.
 
 ```
 import os
 import img2pdf
+import argparse
 ```
 
 ## Options:
